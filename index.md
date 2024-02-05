@@ -16,7 +16,7 @@ In the fast-paced world of web development, understanding the basics of HTTP (Hy
 
 
 <div align="center">
-  <img src="send.gif" alt="Animated GIF" autoplay>
+  <img src="send.gif" alt="Animated GIF" style="width: 200px; height: 200px;" autoplay>
 </div>
 
 ## Section 1: Understanding HTTP
