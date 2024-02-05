@@ -1,10 +1,20 @@
+# Feb 04, 2023 - HTTP
+
+Author: Gayathri Raj 
+
+---
+
 # Demystifying HTTP Requests: A Beginner's Guide
+
+• Estimated Reading Time: 3 minute read
 
 ## Introduction
 In the fast-paced world of web development, understanding the basics of HTTP (Hypertext Transfer Protocol) is crucial. HTTP forms the backbone of communication between clients and servers, making it fundamental for anyone diving into web technologies.
 
+
+
 <div align="center">
-  <img src="send.gif" alt="Animated GIF" style="width: 200%;">
+  <img src="send.gif" alt="Animated GIF" style="width: 300%;" autoplay>
 </div>
 
 ## Section 1: Understanding HTTP
