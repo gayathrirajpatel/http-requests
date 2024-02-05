@@ -3,7 +3,9 @@
 ## Introduction
 In the fast-paced world of web development, understanding the basics of HTTP (Hypertext Transfer Protocol) is crucial. HTTP forms the backbone of communication between clients and servers, making it fundamental for anyone diving into web technologies.
 
-![Alt Text](send.gif)
+<div align="center">
+  <img src="send.gif" alt="Animated GIF" style="width: 200%;">
+</div>
 
 ## Section 1: Understanding HTTP
 HTTP, or Hypertext Transfer Protocol, is the foundation of data communication on the World Wide Web. It's a protocol used for transmitting hypermedia and is the engine behind any data exchange on the web.
@@ -32,14 +34,14 @@ Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0
 ```
 
 
-# Example HTTP Request Breakdown
+### Example HTTP Request Breakdown
 
-## Request Line
+#### Request Line
 - **Method:** `GET` - Indicates that the client is requesting data from the server.
 - **Path:** `/example` - Specifies the location of the resource on the server.
 - **Protocol:** `HTTP/1.1` - Specifies the version of the HTTP protocol being used for the request.
 
-## Headers
+#### Headers
 - **Host:** `www.example.com` - Specifies the host (domain) to which the request is being sent. Crucial for virtual hosting, where multiple domains are served by the same server.
 - **User-Agent:** `Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0` - Provides information about the client making the request. In this case, it indicates that the request is coming from Firefox running on Windows 10.
 - **Accept:** `text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8` - Specifies the media types that the client can understand. In this example, it indicates a preference for HTML, with the ability to handle XML and images. The `q` parameter assigns a weight to each media type, with higher values indicating a higher preference.
@@ -47,7 +49,7 @@ Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0
 This example showcases a typical GET request with important headers providing information about the client and its preferences to the server. Understanding these components is essential for working with HTTP requests and responses in web development.
 
 
-# Section 4: Common HTTP Status Codes
+## Section 4: Common HTTP Status Codes
 
 HTTP status codes inform the client of the result of the requested action. Some common ones include:
 
@@ -57,7 +59,7 @@ HTTP status codes inform the client of the result of the requested action. Some 
 
 Understanding these codes helps troubleshoot issues and improve the user experience.
 
-# Section 5: Making HTTP Requests in Code
+## Section 5: Making HTTP Requests in Code
 
 Let's explore how developers can make HTTP requests using JavaScript's `fetch` API:
 
