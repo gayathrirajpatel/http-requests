@@ -3,7 +3,7 @@
 ## Introduction
 In the fast-paced world of web development, understanding the basics of HTTP (Hypertext Transfer Protocol) is crucial. HTTP forms the backbone of communication between clients and servers, making it fundamental for anyone diving into web technologies.
 
-![Alt Text](URL_to_the_GIF)
+![Alt Text](send.gif)
 
 ## Section 1: Understanding HTTP
 HTTP, or Hypertext Transfer Protocol, is the foundation of data communication on the World Wide Web. It's a protocol used for transmitting hypermedia and is the engine behind any data exchange on the web.
