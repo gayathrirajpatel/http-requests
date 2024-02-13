@@ -14,7 +14,6 @@ Author: Gayathri Raj
 In the fast-paced world of web development, understanding the basics of HTTP (Hypertext Transfer Protocol) is crucial. HTTP forms the backbone of communication between clients and servers, making it fundamental for anyone diving into web technologies.
 
 
-
 <div align="center">
   <img src="send.gif" alt="Animated GIF" style="width: 200px; height: 200px;" autoplay>
 </div>
